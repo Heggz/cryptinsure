@@ -1,0 +1,23 @@
+{
+  "contract_name": "Insurance",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "name": "owner",
+          "type": "address"
+        },
+        {
+          "name": "receiver",
+          "type": "address"
+        }
+      ],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600b57fe5b60405160408060978339810160405280516020909101515b60008054600160a060020a03808516600160a060020a03199283161790925560018054928416929091169190911790555b50505b60338060646000396000f30060606040525bfe00a165627a7a72305820b40f5fb550dba2e6f7938467ae4a196fa34b0893b5368fe81965831ae11959ed0029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1500747205552
+}
